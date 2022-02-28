@@ -1,4 +1,11 @@
 [repository]
 name = "me-at-the-zoo"
 summary = "A collection of generic modules"
-packages = {}
+
+[packages.hamming]
+summary = "A package for finding the hamming distance between two strings"
+package_type = "zip"
+[packages.hamming.versions]
+# Probably not the best way to organize this.
+# In a serious repository, you should have different zip versions.
+"1.0" = "https://raw.githubusercontent.com/coalio/me-at-the-zoo/master/hamming/hamming.zip"
