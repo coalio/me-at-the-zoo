@@ -1,0 +1,4 @@
+[repository]
+name = "me-at-the-zoo"
+summary = "A collection of generic modules"
+packages = {}
