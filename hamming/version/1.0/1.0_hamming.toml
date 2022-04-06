@@ -10,7 +10,7 @@ maintainer = "Coal <dibashtori@gmail.com>"
 url = "https://raw.githubusercontent.com/coalio/me-at-the-zoo/master/hamming/version/1.0/1.0_hamming.zip"
 package_type = "zip"
 
-[demo]
+[run]
 main = "hamming_demo.lua"
 lua_version = ["LuaJIT2.0", "Lua5.3", "*"]
 
