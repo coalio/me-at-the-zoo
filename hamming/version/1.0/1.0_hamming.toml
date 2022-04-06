@@ -1,0 +1,19 @@
+[package]
+name = "hamming"
+version = "1.0"
+description = "A package that provides a Hamming distance function"
+license = "GPL-3.0"
+repository = "https://github.com/coalio/me-at-the-zoo"
+maintainer = "Coal <dibashtori@gmail.com>"
+
+[source]
+url = "https://raw.githubusercontent.com/coalio/me-at-the-zoo/master/hamming/version/1.0/1.0_hamming.zip"
+package_type = "zip"
+
+[demo]
+main = "hamming_demo.lua"
+lua_version = ["LuaJIT2.0", "Lua5.3", "*"]
+
+[support]
+lua_version = ["*"]
+platform = ["*"]

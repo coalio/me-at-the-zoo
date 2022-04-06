@@ -3,7 +3,7 @@ name = "me-at-the-zoo"
 summary = "A collection of generic modules"
 
 [packages.hamming]
-summary = "A package for finding the hamming distance between two strings"
-package_type = "zip"
+summary = "Generic hamming distance function"
+description = "This package provides a function to find the hamming distance between two strings"
 [packages.hamming.versions]
-"1.0" = "https://raw.githubusercontent.com/coalio/me-at-the-zoo/master/hamming/1.0_hamming.zip"
+"1.0" = "https://raw.githubusercontent.com/coalio/me-at-the-zoo/master/hamming/version/1.0/1.0_hamming.toml"
