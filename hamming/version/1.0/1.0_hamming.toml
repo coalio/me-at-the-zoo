@@ -4,7 +4,7 @@ version = "1.0"
 description = "A package that provides a Hamming distance function"
 license = "GPL-3.0"
 repository = "https://github.com/coalio/me-at-the-zoo"
-maintainer = "Coal <dibashtori@gmail.com>"
+maintainer = "Coal <coalio.gg@gmail.com>"
 
 [source]
 url = "https://raw.githubusercontent.com/coalio/me-at-the-zoo/master/hamming/version/1.0/1.0_hamming.zip"
